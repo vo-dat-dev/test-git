@@ -16,5 +16,6 @@ if __name__ == '__main__':
     print('commit 1')
     print('commit 2')
     print('commit 3')
+    print('calling test')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
